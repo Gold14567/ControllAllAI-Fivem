@@ -8,4 +8,4 @@ type ```start ControllAllAi``` on you're ```server.cfg``` to start the script
 you can configure it on ```client.lua```
 # Credit
 Thanks to Alfa for sharing this script i just made it simplier
-check out Alfa's channel 
+check out Alfa's channel https://www.youtube.com/c/AlfaMale/videos

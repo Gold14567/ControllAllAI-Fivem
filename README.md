@@ -5,5 +5,7 @@ Make a folder called [utillity] on you're resource folder
 
 drop the script on the [utillity] folder you created
 
-use start ControllAllAi to start the script
+type start ControllAllAi on you're server.cfg to start the script
+
+you can configure it on client.lua
 # Credit

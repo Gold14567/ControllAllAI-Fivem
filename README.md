@@ -1,7 +1,7 @@
 # ControllAllAI-Fivem
 Control Ai is for optimization and debug for your server
 # Installation
-Make a folder called ```[utillity]``` on you're resource folder and drop it there
+Make a folder called ```[utility]``` on you're resource folder and drop it there
 
 type ```start ControllAllAi``` on you're ```server.cfg``` to start the script
 

@@ -8,13 +8,13 @@ Citizen.CreateThread(function()
 	end	 
 end)
 
-Function SetTrafficDensity(density)
+function SetTrafficDensity(density)
        SetParkedVehicleDensityMultiplierThisFrame(density)
 	   SetVehicleDensityMultiplierThisFrame(density)
 	   SetRandomVehicleDensityMultiplierThisFrame(density)
 end
 
-Function SetPedDensity(density)
+function SetPedDensity(density)
        SetPedDensityMultiplierThisFrame(density)
 	   SetScenarioPedDensityThisFrame(density)
 end
